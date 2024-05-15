@@ -1,7 +1,7 @@
-# JavaEmployeeManagementSystem using JDBC
+# JavaDatabaseManagement using JDBC
 
 ## Overview
-JavaEmployeeManagementSystem is a console-based application developed in Java that enables CRUD operations (Create, Read, Update, Delete) on an employee database. The application utilizes JDBC (Java Database Connectivity) to interact with a MySQL database.
+JavaDatabaseManagement is a console-based application developed in Java that enables CRUD operations (Create, Read, Update, Delete) on an employee database. The application utilizes JDBC (Java Database Connectivity) to interact with a MySQL database.
 
 ## Features
 - Add, retrieve, update, and delete employee records.
