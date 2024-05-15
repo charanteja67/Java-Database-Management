@@ -1,0 +1,11 @@
+create database employeeDB;
+use employeeDB;
+
+create table employees (
+id int,
+name varchar(20),
+designation varchar(20),
+address varchar(20)
+);
+desc employees;
+select * from employees;
